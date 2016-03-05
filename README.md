@@ -1,7 +1,7 @@
-# AVR-Sample-Codes
+## AVR-Sample-Codes
 Basic AVR based Microcontroller Codes
 
-FOR LINUX USERS
+## Linux
 
 use the script run.sh for uploading the avr code onto the microcontroller
 
@@ -10,7 +10,7 @@ use the script run.sh for uploading the avr code onto the microcontroller
 3) Change the programmer name from USBASP to whatever you are using
 4) run the script as sudo ./run.sh codename.c
 
-FOR WINDOWS USER
+## Windows
 
 You can use the run.bat in the similar fashion. follow step 1,2 and 3
 just execute 
